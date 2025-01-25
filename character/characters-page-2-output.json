@@ -1,0 +1,108 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "name": "Aqua Morty",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/21.jpeg"
+        },
+        {
+          "name": "Aqua Rick",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/22.jpeg"
+        },
+        {
+          "name": "Arcade Alien",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/23.jpeg"
+        },
+        {
+          "name": "Armagheadon",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/24.jpeg"
+        },
+        {
+          "name": "Armothy",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/25.jpeg"
+        },
+        {
+          "name": "Arthricia",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/26.jpeg"
+        },
+        {
+          "name": "Artist Morty",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/27.jpeg"
+        },
+        {
+          "name": "Attila Starwar",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/28.jpeg"
+        },
+        {
+          "name": "Baby Legs",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/29.jpeg"
+        },
+        {
+          "name": "Baby Poopybutthole",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/30.jpeg"
+        },
+        {
+          "name": "Baby Wizard",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/31.jpeg"
+        },
+        {
+          "name": "Bearded Lady",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/32.jpeg"
+        },
+        {
+          "name": "Beebo",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/33.jpeg"
+        },
+        {
+          "name": "Benjamin",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/34.jpeg"
+        },
+        {
+          "name": "Bepisian",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/35.jpeg"
+        },
+        {
+          "name": "Beta-Seven",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/36.jpeg"
+        },
+        {
+          "name": "Beth Sanchez",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/37.jpeg"
+        },
+        {
+          "name": "Beth Smith",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/38.jpeg"
+        },
+        {
+          "name": "Beth Smith",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/39.jpeg"
+        },
+        {
+          "name": "Beth's Mytholog",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/40.jpeg"
+        }
+      ]
+    }
+  }
+}

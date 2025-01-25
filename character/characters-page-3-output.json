@@ -1,0 +1,108 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "name": "Big Boobed Waitress",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/41.jpeg"
+        },
+        {
+          "name": "Big Head Morty",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/42.jpeg"
+        },
+        {
+          "name": "Big Morty",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/43.jpeg"
+        },
+        {
+          "name": "Body Guard Morty",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/44.jpeg"
+        },
+        {
+          "name": "Bill",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/45.jpeg"
+        },
+        {
+          "name": "Bill",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/46.jpeg"
+        },
+        {
+          "name": "Birdperson",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/47.jpeg"
+        },
+        {
+          "name": "Black Rick",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/48.jpeg"
+        },
+        {
+          "name": "Blamph",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/49.jpeg"
+        },
+        {
+          "name": "Blim Blam",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/50.jpeg"
+        },
+        {
+          "name": "Blue Diplomat",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/51.jpeg"
+        },
+        {
+          "name": "Blue Footprint Guy",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/52.jpeg"
+        },
+        {
+          "name": "Blue Shirt Morty",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/53.jpeg"
+        },
+        {
+          "name": "Bobby Moynihan",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/54.jpeg"
+        },
+        {
+          "name": "Boobloosian",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/55.jpeg"
+        },
+        {
+          "name": "Bootleg Portal Chemist Rick",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/56.jpeg"
+        },
+        {
+          "name": "Borpocian",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/57.jpeg"
+        },
+        {
+          "name": "Brad",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/58.jpeg"
+        },
+        {
+          "name": "Brad Anderson",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/59.jpeg"
+        },
+        {
+          "name": "Calypso",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/60.jpeg"
+        }
+      ]
+    }
+  }
+}
